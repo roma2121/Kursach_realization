@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kursach_realization", "Kursach_realization\Kursach_realization.csproj", "{DD9B137D-6475-437C-8A06-8538A3356629}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{77100DF0-30B7-44A0-AF3D-E933E8A5F158}"
+	ProjectSection(SolutionItems) = preProject
+		Kursach_realization\2121.ico = Kursach_realization\2121.ico
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ShadowLockSetup", "ShadowLockSetup\ShadowLockSetup.vdproj", "{5F04C4E0-C836-404E-8460-551DF331FC8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9B137D-6475-437C-8A06-8538A3356629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9B137D-6475-437C-8A06-8538A3356629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9B137D-6475-437C-8A06-8538A3356629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9B137D-6475-437C-8A06-8538A3356629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F04C4E0-C836-404E-8460-551DF331FC8D}.Debug|Any CPU.ActiveCfg = Debug
+		{5F04C4E0-C836-404E-8460-551DF331FC8D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3B3BB8D-FA3A-425D-93E1-BF3FACBABBEB}
+	EndGlobalSection
+EndGlobal
